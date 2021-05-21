@@ -1,2 +1,2 @@
 # CSY1018
-Class Project
+Class Project for csy1018
